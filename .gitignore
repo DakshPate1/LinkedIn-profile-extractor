@@ -1,0 +1,11 @@
+# Exclude temporary or build files
+*.ipynb_checkpoints
+*.pyc
+*.pyo
+*.pyd
+*.class
+*.pyc
+*.swp
+*~
+*credentials.py
+*__pycache__
