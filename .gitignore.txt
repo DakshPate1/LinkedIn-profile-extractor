@@ -1,9 +1,0 @@
-# Exclude temporary or build files
-*.ipynb_checkpoints
-*.pyc
-*.pyo
-*.pyd
-*.class
-*.pyc
-*.swp
-*~
